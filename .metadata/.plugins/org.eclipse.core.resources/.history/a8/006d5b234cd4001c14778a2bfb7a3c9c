@@ -1,0 +1,23 @@
+package application;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+
+public class FileReaderBufferedReader {
+
+	public static void main(String[] args) {
+		
+		String path = "C:\\Users\\Admin\\Desktop\\Lucas\\Curso Java\\arquivos\\in.txt";
+		
+		FileReader fr = null;
+		BufferedReader br = null;
+		
+		
+		try {
+			fr = new FileReader(path);
+		}
+		
+		
+	}
+
+}

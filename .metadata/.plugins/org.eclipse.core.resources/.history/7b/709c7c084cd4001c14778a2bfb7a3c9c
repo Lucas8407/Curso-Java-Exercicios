@@ -1,0 +1,11 @@
+package application;
+
+public class FileReaderBufferedReader {
+
+	public static void main(String[] args) {
+		
+		String path = "C:\\Users\\Admin\\Desktop\\Lucas\\Curso Java\\arquivos\\in.txt";
+
+	}
+
+}
